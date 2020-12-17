@@ -1,0 +1,7 @@
+= Menu :
+
+* Encore un peu de Lembas
+* Et encore un peu de Lembas
+* Du bon ragoût pour Aragorn.
+
+image::images/ragout.png[aragorn,300,200]
